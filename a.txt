@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-abc
-
-abcxyz123
-=======
-abcxyz123asdasd
->>>>>>> ec4d2d4 (a)
-=======
-abcxyz123asdasd
->>>>>>> ec4d2d41f5898a8e288d3744c726a8cfc111d848
+123
